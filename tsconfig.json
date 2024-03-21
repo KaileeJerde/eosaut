@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outDir": "./bin",
+        "allowJs": true,
+        "target": "es5",
+        "esModuleInterop": true
+    },
+    "include": [
+        "./src/index.ts"
+    ]
+}
